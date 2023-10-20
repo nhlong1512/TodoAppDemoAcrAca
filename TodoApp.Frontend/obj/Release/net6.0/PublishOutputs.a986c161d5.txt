@@ -1,0 +1,15 @@
+D:\VS\Dapr-Todo-App\TodoApp.Frontend\obj\Docker\publish\TodoApp.Frontend.exe
+D:\VS\Dapr-Todo-App\TodoApp.Frontend\obj\Docker\publish\appsettings.Development.json
+D:\VS\Dapr-Todo-App\TodoApp.Frontend\obj\Docker\publish\appsettings.json
+D:\VS\Dapr-Todo-App\TodoApp.Frontend\obj\Docker\publish\TodoApp.Frontend.dll
+D:\VS\Dapr-Todo-App\TodoApp.Frontend\obj\Docker\publish\TodoApp.Frontend.deps.json
+D:\VS\Dapr-Todo-App\TodoApp.Frontend\obj\Docker\publish\TodoApp.Frontend.runtimeconfig.json
+D:\VS\Dapr-Todo-App\TodoApp.Frontend\obj\Docker\publish\TodoApp.Frontend.pdb
+D:\VS\Dapr-Todo-App\TodoApp.Frontend\obj\Docker\publish\Dapr.AspNetCore.dll
+D:\VS\Dapr-Todo-App\TodoApp.Frontend\obj\Docker\publish\Dapr.Client.dll
+D:\VS\Dapr-Todo-App\TodoApp.Frontend\obj\Docker\publish\Google.Api.CommonProtos.dll
+D:\VS\Dapr-Todo-App\TodoApp.Frontend\obj\Docker\publish\Google.Protobuf.dll
+D:\VS\Dapr-Todo-App\TodoApp.Frontend\obj\Docker\publish\Grpc.Core.Api.dll
+D:\VS\Dapr-Todo-App\TodoApp.Frontend\obj\Docker\publish\Grpc.Net.Client.dll
+D:\VS\Dapr-Todo-App\TodoApp.Frontend\obj\Docker\publish\Grpc.Net.Common.dll
+D:\VS\Dapr-Todo-App\TodoApp.Frontend\obj\Docker\publish\Newtonsoft.Json.dll

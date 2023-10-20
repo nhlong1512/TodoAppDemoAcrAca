@@ -1,0 +1,11 @@
+D:\VS\Dapr-Todo-App\TodoApp.Backend\obj\Docker\publish\TodoApp.Backend.exe
+D:\VS\Dapr-Todo-App\TodoApp.Backend\obj\Docker\publish\appsettings.Development.json
+D:\VS\Dapr-Todo-App\TodoApp.Backend\obj\Docker\publish\appsettings.json
+D:\VS\Dapr-Todo-App\TodoApp.Backend\obj\Docker\publish\TodoApp.Backend.dll
+D:\VS\Dapr-Todo-App\TodoApp.Backend\obj\Docker\publish\TodoApp.Backend.deps.json
+D:\VS\Dapr-Todo-App\TodoApp.Backend\obj\Docker\publish\TodoApp.Backend.runtimeconfig.json
+D:\VS\Dapr-Todo-App\TodoApp.Backend\obj\Docker\publish\TodoApp.Backend.pdb
+D:\VS\Dapr-Todo-App\TodoApp.Backend\obj\Docker\publish\Microsoft.OpenApi.dll
+D:\VS\Dapr-Todo-App\TodoApp.Backend\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\VS\Dapr-Todo-App\TodoApp.Backend\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\VS\Dapr-Todo-App\TodoApp.Backend\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
